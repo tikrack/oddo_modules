@@ -2,7 +2,7 @@
   {
     "name": "Cms",
     "description": "مدیریت راحت صفحات و محتوای سایت",
-    "logo": "Website.png"
+    "logo": "Cms.png"
   },
   {
     "name": "Ads",
@@ -22,12 +22,12 @@
   {
     "name": "Ecommerce",
     "description": "فروشگاه خودتو آنلاین کن!",
-    "logo": "eCommerce.png"
+    "logo": "Ecommerce.png"
   },
   {
     "name": "Crm",
     "description": "مشتریاتو بهتر بشناس و مدیریت کن",
-    "logo": "CRM.png"
+    "logo": "Crm.png"
   },
   {
     "name": "Discount",
@@ -77,7 +77,7 @@
   {
     "name": "Social",
     "description": "به شبکه‌های اجتماعی وصل شو",
-    "logo": "Social Marketing.png"
+    "logo": "Social.png"
   },
   {
     "name": "Survey",
