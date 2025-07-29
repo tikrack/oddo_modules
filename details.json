@@ -72,7 +72,7 @@
   {
     "name": "Sms",
     "description": "پیامک بده و اطلاع‌رسانی کن",
-    "logo": "SMS.png"
+    "logo": "Sms.png"
   },
   {
     "name": "Social",
@@ -102,7 +102,7 @@
   {
     "name": "Attendance",
     "description": "حضور و غیاب دقیق و ساده",
-    "logo": "Attendances.png"
+    "logo": "Attendance.png"
   },
   {
     "name": "ThemeStudio",
