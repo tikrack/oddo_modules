@@ -10,7 +10,7 @@
 <table>
 <tr>
 <td align="center">
-  <img src="https://tikrack.github.io/oddo_modules/Photos/Website.png" width="100" /><br/>
+  <img src="https://tikrack.github.io/oddo_modules/Photos/Cms.png" width="100" /><br/>
   <b>Cms</b><br/>
   مدیریت راحت صفحات و محتوای سایت
 </td>
@@ -32,7 +32,7 @@
   بهینه‌سازی برای گوگل و بقیه موتور‌ها
 </td>
 <td align="center">
-  <img src="https://tikrack.github.io/oddo_modules/Photos/eCommerce.png" width="100" /><br/>
+  <img src="https://tikrack.github.io/oddo_modules/Photos/Ecommerce.png" width="100" /><br/>
   <b>Ecommerce</b><br/>
   فروشگاه خودتو آنلاین کن!
 </td>
