@@ -1,0 +1,117 @@
+[
+  {
+    "name": "Cms",
+    "description": "مدیریت راحت صفحات و محتوای سایت",
+    "logo": "Website.png"
+  },
+  {
+    "name": "Ads",
+    "description": "راه‌اندازی تبلیغات با چند کلیک",
+    "logo": "Ads.png"
+  },
+  {
+    "name": "Multi-Language",
+    "description": "افزودن زبان‌های مختلف به سیستم",
+    "logo": "Multi-Language.png"
+  },
+  {
+    "name": "Seo",
+    "description": "بهینه‌سازی برای گوگل و بقیه موتور‌ها",
+    "logo": "Seo.png"
+  },
+  {
+    "name": "Ecommerce",
+    "description": "فروشگاه خودتو آنلاین کن!",
+    "logo": "eCommerce.png"
+  },
+  {
+    "name": "Crm",
+    "description": "مشتریاتو بهتر بشناس و مدیریت کن",
+    "logo": "CRM.png"
+  },
+  {
+    "name": "Discount",
+    "description": "تخفیف بده و فروشو ببر بالا",
+    "logo": "Discount.png"
+  },
+  {
+    "name": "Commission",
+    "description": "حساب پورسانت‌ها با ما!",
+    "logo": "Commission.png"
+  },
+  {
+    "name": "Inventory",
+    "description": "مدیریت آسون انبار و کالاها",
+    "logo": "Inventory.png"
+  },
+  {
+    "name": "Ticket",
+    "description": "پشتیبانی رو حرفه‌ای کن",
+    "logo": "Ticket.png"
+  },
+  {
+    "name": "Wallet",
+    "description": "کیف پول دیجیتال برای پرداخت‌ها",
+    "logo": "Wallet.png"
+  },
+  {
+    "name": "Behavior",
+    "description": "رفتار کاربرارو زیر ذره‌بین بگیر",
+    "logo": "Behavior.png"
+  },
+  {
+    "name": "Guarantee",
+    "description": "گارانتی محصولاتت رو بچرخون",
+    "logo": "Guarantee.png"
+  },
+  {
+    "name": "Email",
+    "description": "ایمیل بفرست، ساده و سریع",
+    "logo": "Email.png"
+  },
+  {
+    "name": "Sms",
+    "description": "پیامک بده و اطلاع‌رسانی کن",
+    "logo": "SMS.png"
+  },
+  {
+    "name": "Social",
+    "description": "به شبکه‌های اجتماعی وصل شو",
+    "logo": "Social Marketing.png"
+  },
+  {
+    "name": "Survey",
+    "description": "نظرسنجی بساز و بازخورد بگیر",
+    "logo": "Survey.png"
+  },
+  {
+    "name": "Employees",
+    "description": "کارمنداتو مدیریت کن راحت",
+    "logo": "Employees.png"
+  },
+  {
+    "name": "Insurance",
+    "description": "بیمه‌ها رو دسته‌بندی و بررسی کن",
+    "logo": "Insurance.png"
+  },
+  {
+    "name": "Contract",
+    "description": "قراردادها همه یک‌جا",
+    "logo": "Contract.png"
+  },
+  {
+    "name": "Attendance",
+    "description": "حضور و غیاب دقیق و ساده",
+    "logo": "Attendances.png"
+  },
+  {
+    "name": "ThemeStudio",
+    "description": "ظاهر سیستم رو دلخواه بساز",
+    "logo": "ThemeStudio.png"
+  },
+  {
+    "name": "Ai",
+    "description": "ابزار هوشمند برای کارهای تکراری",
+    "logo": ""
+  }
+]
